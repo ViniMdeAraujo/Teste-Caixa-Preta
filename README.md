@@ -2,7 +2,9 @@
 
 ## Título da atividade
 
-Teste Caixa Preta da tela de login da aplicação Disney Plus.
+Teste Caixa Preta.
+
+Tela de login da aplicação Disney Plus.
 
 ## Aplicativo escolhido
 
