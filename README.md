@@ -1,31 +1,34 @@
 # Teste-Caixa-Preta
 
-Título da atividade
+##Título da atividade
 
 Teste Caixa Preta da tela de login da aplicação Disney Plus.
 
-Aplicativo escolhido
+##Aplicativo escolhido
+
 Disney Plus
 
-Pré-requisitos
+##Pré-requisitos
+
 Selenium IDE
 Google Chrome
 
-Instalação
-Links to an external site.
-Informe a ferramenta utilizada para execução dos testes, dados do navegador, sistema operacional e etc
+##Instalação
 
-Executando os testes
+Selenium IDE
+Windows 11 Home Single Language
+Sistema de 64 bits"
+Google Chrome - Versão 124.0.6367.63 (Versão oficial) 64 bits
 
-Links to an external site.
-Informe quais foram os pontos de cobertura de teste da tela de login;
+##Executando os testes
 
-Registro de teste
+Foram abordados todos os cenários referentes ao processo de login na plataforma.
 
-Links to an external site.
+##Registro de teste
+
 Insira o link do vídeo gravado para atividade;
 
-Autores
+##Autores
 
 Nome: Vinicius Machado de Araujo
 
