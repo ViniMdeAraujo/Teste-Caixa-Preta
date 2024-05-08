@@ -28,7 +28,7 @@ Foram abordados todos os cenários referentes ao processo de login na plataforma
 
 ## Registro de teste
 
-Insira o link do vídeo gravado para atividade;
+https://youtu.be/UV8Fxqmo6wk
 
 ## Autores
 
